@@ -26,9 +26,10 @@ Estou em transição de carreira, focado em me tornar um **desenvolvedor Front-E
 
 Estou aberto a oportunidades de estágio, Júnior ou projetos freelancers. Vamos bater um papo?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Meu%20Portfólio-FF5722?style=for-the-badge)](https://seuportifolio.netlify.app) <!-- Adicione seu link quando tiver -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulonantet/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquenantet@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulo.nantet@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Meu%20Portfólio-FF5722?style=for-the-badge)](https://paulonantet.github.io/portfolio-paulonantet/) <!-- Adicione seu link quando tiver -->
 
 ---
 
